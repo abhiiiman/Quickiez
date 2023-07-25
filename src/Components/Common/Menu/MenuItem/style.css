@@ -1,0 +1,51 @@
+.item {
+  width: 150px;
+  padding: 0 0.8rem 0.8rem 0.8rem;
+  background-color: #fff;
+  border-radius: 30px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.item img {
+  margin-top: -3.5rem;
+  height: 130px;
+  object-fit: contain;
+}
+
+.item-foot-desc {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.item-head-desc p {
+    margin: 0;
+    margin-bottom: .5rem;
+}
+
+.item-head-desc {
+    text-align: left;
+    flex: 1;
+    margin-top: 1rem;
+    margin-bottom: .5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.head-desc-name{
+    font-weight: 600;
+    font-size: 0.9rem;
+    text-transform: capitalize;
+    flex: 1;
+}
+
+.head-desc-info{
+    font-size: .8rem;
+    color: #a0a0a0a0;
+}
+
+.foot-desc-price{
+    font-weight: 700;
+}

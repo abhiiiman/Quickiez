@@ -1,0 +1,18 @@
+.logo {
+  min-width: fit-content;
+}
+
+.logo img {
+  width: 2.5rem;
+  margin-right: 0.5rem;
+}
+
+.logo > div {
+  display: flex;
+  align-items: center;
+}
+
+.logo p {
+  font-size: 0.6rem;
+  font-family: "Borel";
+}
