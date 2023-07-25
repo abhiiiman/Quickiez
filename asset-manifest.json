@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Quickiez/static/css/main.7c0e7618.css",
-    "main.js": "/Quickiez/static/js/main.3444f76b.js",
+    "main.js": "/Quickiez/static/js/main.adce632e.js",
     "static/js/787.f13c3950.chunk.js": "/Quickiez/static/js/787.f13c3950.chunk.js",
     "static/media/banner.png": "/Quickiez/static/media/banner.75527149e866ce4093c4.png",
     "static/media/logo.png": "/Quickiez/static/media/logo.bda6e975d7dcde1923a6.png",
     "index.html": "/Quickiez/index.html",
     "main.7c0e7618.css.map": "/Quickiez/static/css/main.7c0e7618.css.map",
-    "main.3444f76b.js.map": "/Quickiez/static/js/main.3444f76b.js.map",
+    "main.adce632e.js.map": "/Quickiez/static/js/main.adce632e.js.map",
     "787.f13c3950.chunk.js.map": "/Quickiez/static/js/787.f13c3950.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c0e7618.css",
-    "static/js/main.3444f76b.js"
+    "static/js/main.adce632e.js"
   ]
 }
