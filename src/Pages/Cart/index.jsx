@@ -2,29 +2,40 @@ import React from 'react';
 import "./style.css";
 import Logo from '../../Components/Common/Logo';
 import Menu from '../../Components/Common/Menu';
-import { menuItemsData } from '../../Components/Common/Menu/Data';
 import Footer from '../../Components/Common/Footer';
 import EmptyCart from '../../Components/Cart/EmptyCart';
+import { createStructuredSelector } from 'reselect';
+import { connect } from 'react-redux';
+import { selectCartItems, selectCartItemsCount, selectCartTotal } from '../redux/cart/cart.selector';
 
-const Cart = () => {
+const Cart = ({ cartCount, cartList, cartTotal }) => {
     return (
         <>
-            <div>
-                <div className='cart-header'>
-                    <Logo />
-                </div>
+            <div className='cart-header'>
+                <Logo />
+            </div>
+
+            {cartCount === 0 ? (
                 <EmptyCart />
+            ) : (
                 <div className='orders'>
                     <h1 className='orders-heading'>Your Orders</h1>
                     <div className='orders-menu'>
-                        <Menu list={menuItemsData} />
+                        <Menu list={cartList} />
                     </div>
-                    <h3 className='orders-total'>Your Total ${ }</h3>
+                    <h3 className='orders-total'>Your Total ₹{cartTotal}</h3>
                 </div>
-            </div>
+            )}
+
             <Footer />
         </>
     )
 }
 
-export default Cart;
+const mapStateToProps = createStructuredSelector({
+    cartCount: selectCartItemsCount,
+    cartList: selectCartItems,
+    cartTotal: selectCartTotal,
+});
+
+export default connect(mapStateToProps)(Cart);

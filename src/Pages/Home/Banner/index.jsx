@@ -3,7 +3,7 @@ import "./style.css";
 import Logo from '../../../Components/Common/Logo';
 import bannerImage from "./banner.png";
 
-const Banner = () => {
+const Banner = ({ handleScrollMenu }) => {
     return (
         <header>
             <div className="header-content">
@@ -11,7 +11,7 @@ const Banner = () => {
                 <div className="content-main">
                     <h1>Get Delicious Food for your<br />Mid-Time Cravings.</h1>
                     <p>Order your tasty and healthy food now</p>
-                    <button>
+                    <button onClick={handleScrollMenu}>
                         View Menu <i className="fas fa-long-arrow-alt-right"></i>
                     </button>
                 </div>
