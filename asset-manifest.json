@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/Quickiez/static/css/main.7c0e7618.css",
-    "main.js": "/Quickiez/static/js/main.adce632e.js",
-    "static/js/787.f13c3950.chunk.js": "/Quickiez/static/js/787.f13c3950.chunk.js",
+    "main.css": "/Quickiez/static/css/main.34e8e1c4.css",
+    "main.js": "/Quickiez/static/js/main.77c31a6a.js",
     "static/media/banner.png": "/Quickiez/static/media/banner.75527149e866ce4093c4.png",
+    "static/media/emptycart.png": "/Quickiez/static/media/emptycart.c18466a82de648b456f9.png",
     "static/media/logo.png": "/Quickiez/static/media/logo.bda6e975d7dcde1923a6.png",
     "index.html": "/Quickiez/index.html",
-    "main.7c0e7618.css.map": "/Quickiez/static/css/main.7c0e7618.css.map",
-    "main.adce632e.js.map": "/Quickiez/static/js/main.adce632e.js.map",
-    "787.f13c3950.chunk.js.map": "/Quickiez/static/js/787.f13c3950.chunk.js.map"
+    "main.34e8e1c4.css.map": "/Quickiez/static/css/main.34e8e1c4.css.map",
+    "main.77c31a6a.js.map": "/Quickiez/static/js/main.77c31a6a.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c0e7618.css",
-    "static/js/main.adce632e.js"
+    "static/css/main.34e8e1c4.css",
+    "static/js/main.77c31a6a.js"
   ]
 }
