@@ -1,5 +1,6 @@
 .logo {
   min-width: fit-content;
+  margin-top: 1.5rem;
 }
 
 .logo img {
@@ -12,7 +13,11 @@
   align-items: center;
 }
 
+.brand-name{
+  font-size: 1.7rem;
+}
+
 .logo p {
-  font-size: 0.6rem;
+  font-size: 0.8rem;
   font-family: "Borel";
 }

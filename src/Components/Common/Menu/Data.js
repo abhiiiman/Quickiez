@@ -1,121 +1,139 @@
+import bigBurger from "../../../Images/bigBurger.png";
+import bowl1 from "../../../Images/bowl1.png";
+import bowl2 from "../../../Images/bowl2.png";
+import bowl3 from "../../../Images/bowl3.png";
+import bowl4 from "../../../Images/bowl4.png";
+import fruits from "../../../Images/fruits.png";
+import cereal_bowl from "../../../Images/cereal_bowl.png";
+import bowl5 from "../../../Images/bowl5.png";
+import bowl6 from "../../../Images/bowl6.png";
+import pizza from "../../../Images/pizza.png";
+import bowl7 from "../../../Images/bowl7.png";
+import bowl8 from "../../../Images/bowl8.png";
+import bowl9 from "../../../Images/bowl9.png";
+import bowl10 from "../../../Images/bowl10.png";
+import bowl11 from "../../../Images/bowl11.png";
+import bowl12 from "../../../Images/bowl12.png";
+import bowl13 from "../../../Images/bowl13.png";
+
 export const menuItemsData = [
     {
         id: 1,
         name: 'Mediterranean  Salad',
         info: 'spicey with garlic and then deep fried to crispy perfection',
-        price: 24,
-        img: '/Images/bigBurger.png',
+        price: 120,
+        img: bowl2,
     },
     {
         id: 2,
         name: 'Summer Asian Slaw',
         info: 'spicey with garlic and then deep fried to crispy perfection',
-        price: 24,
-        img: '/Images/bowl1.png',
+        price: 240,
+        img: bowl1,
     },
     {
         id: 3,
         name: 'Burger',
         info: 'spicey with garlic and then deep fried to crispy perfection',
-        price: 24,
-        img: '/Images/bowl2.png',
+        price: 69,
+        img: bigBurger,
     },
     {
         id: 4,
         name: 'white sauce pasta',
         info: 'spicey with garlic and then deep fried to crispy perfection',
-        price: 24,
-        img: '/Images/bowl3.png',
+        price: 60,
+        img: bowl3,
     },
     {
         id: 5,
         name: 'butterfly pasta',
         info: 'spicey with garlic and then deep fried to crispy perfection',
-        price: 24,
-        img: '/Images/bowl4.png',
+        price: 80,
+        img: bowl4,
     },
     {
         id: 6,
         name: 'tooty fruity bowl',
         info: 'spicey with garlic and then deep fried to crispy perfection',
-        price: 24,
-        img: '/Images/fruits.png',
+        price: 50,
+        img: fruits,
     },
     {
         id: 7,
         name: 'granola cereal bowl',
         info: 'spicey with garlic and then deep fried to crispy perfection',
-        price: 24,
-        img: '/Images/granola cereal bowl.png',
+        price: 199,
+        img: cereal_bowl,
     },
     {
         id: 8,
         name: 'palm bowl',
         info: 'spicey with garlic and then deep fried to crispy perfection',
-        price: 24,
-        img: '/Images/kisspng-aa-na-tigela-smoothie-aa-palm-bowl-apple-j-goji-berry-5b306ffe7baf07.9992682215299010545066.png',
+        price: 150,
+        img: bowl5,
     },
     {
         id: 9,
         name: 'tigela smoothie',
         info: 'spicey with garlic and then deep fried to crispy perfection',
-        price: 24,
-        img: '/Images/kisspng-aa-na-tigela-smoothie-breakfast-juice-health-s-acai-bowl-5b11d2604db908.6695630315278946243184.png',
+        price: 160,
+        img: bowl6,
     },
     {
         id: 10,
         name: 'breakfast cereal',
         info: 'spicey with garlic and then deep fried to crispy perfection',
-        price: 24,
-        img: '/Images/kisspng-breakfast-cereal-pizza-muesli-meze-vegetarian-cuis-granola-5ac48d852aeb69.1891892315228307251758.png',
+        price: 130,
+        img: bowl7,
     },
     {
         id: 11,
         name: 'cuisine of hawaii',
         info: 'spicey with garlic and then deep fried to crispy perfection',
-        price: 24,
-        img: '/Images/kisspng-cuisine-of-hawaii-l-l-hawaiian-barbecue-shrimp-gam-frozen-chicken-5b1e62f3a9e035.2766282415287180676958.png',
+        price: 240,
+        img: bowl8,
     },
     {
         id: 12,
         name: 'fried chicken',
         info: 'spicey with garlic and then deep fried to crispy perfection',
-        price: 24,
-        img: '/Images/kisspng-fried-chicken-lemon-chicken-chicken-meat-fine-dining-chicken-meat-5a940a1b75aa22.821205431519651355482.png',
+        price: 250,
+        img: bowl9,
     },
     {
         id: 13,
         name: 'greek salad',
         info: 'spicey with garlic and then deep fried to crispy perfection',
-        price: 24,
-        img: '/Images/kisspng-greek-salad-fruit-salad-spinach-salad-muesli-vegetable-salad-5a96f429ce9af3.7299622115198423458463.png',
+        price: 180,
+        img: bowl10,
     },
     {
         id: 14,
         name: 'hamburger',
         info: 'spicey with garlic and then deep fried to crispy perfection',
-        price: 24,
-        img: '/Images/kisspng-hamburger-street-food-seafood-fast-food-delicious-food-5a75083cceaf41.2676743415176192608466.png',
+        price: 240,
+        img: bowl11,
     },
     {
         id: 15,
         name: 'israeli salad',
         info: 'spicey with garlic and then deep fried to crispy perfection',
-        price: 24,
-        img: '/Images/kisspng-israeli-salad-european-cuisine.png',
+        price: 120,
+        img: bowl12,
     },
     {
         id: 16,
         name: 'Pizza Pasta',
         info: 'spicey with garlic and then deep fried to crispy perfection',
-        price: 24,
-        img: '/Images/kisspng-italian-cuisine-pizza-pasta-food-plate-healthy-food-5abb864701e2b7.3892346415222390470077.png',
+        price: 300,
+        img: bowl13,
     },
     {
         id: 17,
         name: 'Pizza',
         info: 'spicey with garlic and then deep fried to crispy perfection',
-        price: 24,
-        img: '/Images/pizza.png',
+        price: 600,
+        img: pizza,
     },
 ];

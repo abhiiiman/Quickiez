@@ -7,7 +7,7 @@ const Logo = () => {
     <div className="logo">
       <div>
         <img src={logoImage} alt="logo.png" />
-        <span><b>Sushant</b></span>
+        <span className='brand-name'><b>Quickiez</b></span>
       </div>
       <p>
         <b>Canteen & Refreshment</b>
