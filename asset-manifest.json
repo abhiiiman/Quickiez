@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Quickiez/static/css/main.86b3c2bb.css",
-    "main.js": "/Quickiez/static/js/main.53c11bbf.js",
+    "main.css": "/Quickiez/static/css/main.ca46214d.css",
+    "main.js": "/Quickiez/static/js/main.cc106c36.js",
     "static/media/banner.png": "/Quickiez/static/media/banner.385253d501293fb1db5c.png",
     "static/media/bowl12.png": "/Quickiez/static/media/bowl12.f297c2159a4e7f707954.png",
     "static/media/cereal_bowl.png": "/Quickiez/static/media/cereal_bowl.410b4942f6f5b62fca8c.png",
@@ -21,13 +21,12 @@
     "static/media/bowl11.png": "/Quickiez/static/media/bowl11.6dc8bada67dc11319b7b.png",
     "static/media/bowl6.png": "/Quickiez/static/media/bowl6.2c263f326c169bf1556f.png",
     "static/media/emptycart.png": "/Quickiez/static/media/emptycart.c18466a82de648b456f9.png",
-    "static/media/logo.png": "/Quickiez/static/media/logo.bda6e975d7dcde1923a6.png",
     "index.html": "/Quickiez/index.html",
-    "main.86b3c2bb.css.map": "/Quickiez/static/css/main.86b3c2bb.css.map",
-    "main.53c11bbf.js.map": "/Quickiez/static/js/main.53c11bbf.js.map"
+    "main.ca46214d.css.map": "/Quickiez/static/css/main.ca46214d.css.map",
+    "main.cc106c36.js.map": "/Quickiez/static/js/main.cc106c36.js.map"
   },
   "entrypoints": [
-    "static/css/main.86b3c2bb.css",
-    "static/js/main.53c11bbf.js"
+    "static/css/main.ca46214d.css",
+    "static/js/main.cc106c36.js"
   ]
 }
