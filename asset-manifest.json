@@ -1,16 +1,33 @@
 {
   "files": {
-    "main.css": "/Quickiez/static/css/main.34e8e1c4.css",
-    "main.js": "/Quickiez/static/js/main.77c31a6a.js",
-    "static/media/banner.png": "/Quickiez/static/media/banner.75527149e866ce4093c4.png",
+    "main.css": "/Quickiez/static/css/main.41277dac.css",
+    "main.js": "/Quickiez/static/js/main.35e00dd9.js",
+    "static/media/banner.png": "/Quickiez/static/media/banner.385253d501293fb1db5c.png",
+    "static/media/bowl12.png": "/Quickiez/static/media/bowl12.f297c2159a4e7f707954.png",
+    "static/media/cereal_bowl.png": "/Quickiez/static/media/cereal_bowl.410b4942f6f5b62fca8c.png",
+    "static/media/bowl7.png": "/Quickiez/static/media/bowl7.75f861fa806f77c33cba.png",
+    "static/media/bowl1.png": "/Quickiez/static/media/bowl1.4c47b165a0bd4e2ef1da.png",
+    "static/media/pizza.png": "/Quickiez/static/media/pizza.225acc81ee8facf39293.png",
+    "static/media/fruits.png": "/Quickiez/static/media/fruits.856012f0fce9464ba8c2.png",
+    "static/media/bowl2.png": "/Quickiez/static/media/bowl2.30baf8f589887797bdd1.png",
+    "static/media/bowl5.png": "/Quickiez/static/media/bowl5.8938de7f3572b4434167.png",
+    "static/media/bowl10.png": "/Quickiez/static/media/bowl10.de30f1641ee6ab33e84e.png",
+    "static/media/bowl9.png": "/Quickiez/static/media/bowl9.8c6bd41da1842a518dc6.png",
+    "static/media/bowl13.png": "/Quickiez/static/media/bowl13.69c687c8d89cec9b94eb.png",
+    "static/media/bigBurger.png": "/Quickiez/static/media/bigBurger.f73d3b3766f84ff3afa9.png",
+    "static/media/bowl8.png": "/Quickiez/static/media/bowl8.3cfd1b13c19a83bab321.png",
+    "static/media/bowl4.png": "/Quickiez/static/media/bowl4.a22136d5306537c2d39a.png",
+    "static/media/bowl3.png": "/Quickiez/static/media/bowl3.a9d596ae05c594629431.png",
+    "static/media/bowl11.png": "/Quickiez/static/media/bowl11.6dc8bada67dc11319b7b.png",
+    "static/media/bowl6.png": "/Quickiez/static/media/bowl6.2c263f326c169bf1556f.png",
     "static/media/emptycart.png": "/Quickiez/static/media/emptycart.c18466a82de648b456f9.png",
     "static/media/logo.png": "/Quickiez/static/media/logo.bda6e975d7dcde1923a6.png",
     "index.html": "/Quickiez/index.html",
-    "main.34e8e1c4.css.map": "/Quickiez/static/css/main.34e8e1c4.css.map",
-    "main.77c31a6a.js.map": "/Quickiez/static/js/main.77c31a6a.js.map"
+    "main.41277dac.css.map": "/Quickiez/static/css/main.41277dac.css.map",
+    "main.35e00dd9.js.map": "/Quickiez/static/js/main.35e00dd9.js.map"
   },
   "entrypoints": [
-    "static/css/main.34e8e1c4.css",
-    "static/js/main.77c31a6a.js"
+    "static/css/main.41277dac.css",
+    "static/js/main.35e00dd9.js"
   ]
 }
