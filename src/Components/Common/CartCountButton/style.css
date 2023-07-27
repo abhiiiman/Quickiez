@@ -33,3 +33,29 @@
     justify-content: center;
     font-weight: 500;
 }
+
+.glow {
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+/* Standard keyframes */
+@keyframes glow {
+  from {
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #e60073, 0 0 20px #e60073, 0 0 25px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+  }
+
+  to {
+    text-shadow: 0 0 10px #fff, 0 0 15px #FFE205, 0 0 20px #FFE205, 0 0 25px #FFE205, 0 0 60px #FFE205, 0 0 70px #FFE205, 0 0 80px #FFE205;
+  }
+}
+
+/* Vendor-prefixed keyframes for older browsers */
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #e60073, 0 0 20px #e60073, 0 0 25px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+  }
+
+  to {
+    text-shadow: 0 0 10px #fff, 0 0 15px #FFE205, 0 0 20px #FFE205, 0 0 25px #FFE205, 0 0 60px #FFE205, 0 0 70px #FFE205, 0 0 80px #FFE205;
+  }
+}

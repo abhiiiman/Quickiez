@@ -13,11 +13,32 @@
   align-items: center;
 }
 
-.brand-name{
+.brand-name {
   font-size: 1.7rem;
 }
 
 .logo p {
   font-size: 0.8rem;
   font-family: "Borel";
+}
+
+.text-effect:hover {
+  cursor: pointer;
+  background: linear-gradient(45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: animate 2s ease-in-out infinite;
+}
+
+@keyframes animate {
+  0% {
+    background-position: 0 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0 50%;
+  }
 }

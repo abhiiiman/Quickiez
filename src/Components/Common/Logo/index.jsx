@@ -4,7 +4,7 @@ import logoImage from "./logo.png";
 
 const Logo = () => {
   return (
-    <div className="logo">
+    <div className="text-effect logo">
       <div>
         <img src={logoImage} alt="logo.png" />
         <span className='brand-name'><b>Quickiez</b></span>
