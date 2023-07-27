@@ -1,11 +1,11 @@
 .logo {
   min-width: fit-content;
-  margin-top: 1.5rem;
+  margin-top: .5rem;
 }
 
 .logo img {
-  width: 2.5rem;
-  margin-right: 0.5rem;
+  width: 3rem;
+  margin-right: 0.2rem;
 }
 
 .logo > div {
@@ -22,7 +22,7 @@
   font-family: "Borel";
 }
 
-.text-effect:hover {
+.text-effect {
   cursor: pointer;
   background: linear-gradient(45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
   -webkit-background-clip: text;

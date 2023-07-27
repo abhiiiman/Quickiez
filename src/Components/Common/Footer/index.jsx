@@ -7,7 +7,7 @@ const Footer = () => {
         <footer>
             <p>
                 <div> {/* className='glow' */}
-                    Made with  <i id="heart" className="fa-solid fa-heart"></i>  by <strong>Abhijit Mandal</strong>
+                    Made with  <i id="heart" className="fa-solid fa-heart"></i> by <strong>Abhijit Mandal</strong>
                 </div>
 
                 <div className='follow-container'>
