@@ -20,7 +20,7 @@ const MenuItem = ({ item, cartCount, cartList, cartAddItem, cartRemoveItem }) =>
         return quantity;
     }
     return (
-        <div className='item' >
+        <div className='item'>
             <img src={img} alt="item" />
             <div className="item-head-desc">
                 <p className='head-desc-name'>{name}</p>
