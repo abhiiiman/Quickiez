@@ -5,10 +5,10 @@ import "./style.css";
 const Footer = () => {
     return (
         <footer>
-            <p>
-                <div> {/* className='glow' */}
+            <div>
+                <p> {/* className='glow' */}
                     Made with  <i id="heart" className="fa-solid fa-heart"></i> by <strong>Abhijit Mandal</strong>
-                </div>
+                </p>
 
                 <div className='follow-container'>
                     <a href="https://github.com/abhiiiman">
@@ -24,7 +24,7 @@ const Footer = () => {
                         <i className="glow social-icon fa-regular fa-envelope fa-spin"></i>
                     </a>
                 </div>
-            </p>
+            </div>
             <Logo />
         </footer>
     )
