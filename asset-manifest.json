@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Quickiez/static/css/main.ca46214d.css",
-    "main.js": "/Quickiez/static/js/main.a9716780.js",
+    "main.js": "/Quickiez/static/js/main.1677d200.js",
     "static/media/banner.png": "/Quickiez/static/media/banner.385253d501293fb1db5c.png",
     "static/media/bowl12.png": "/Quickiez/static/media/bowl12.f297c2159a4e7f707954.png",
     "static/media/cereal_bowl.png": "/Quickiez/static/media/cereal_bowl.410b4942f6f5b62fca8c.png",
@@ -23,10 +23,10 @@
     "static/media/emptycart.png": "/Quickiez/static/media/emptycart.c18466a82de648b456f9.png",
     "index.html": "/Quickiez/index.html",
     "main.ca46214d.css.map": "/Quickiez/static/css/main.ca46214d.css.map",
-    "main.a9716780.js.map": "/Quickiez/static/js/main.a9716780.js.map"
+    "main.1677d200.js.map": "/Quickiez/static/js/main.1677d200.js.map"
   },
   "entrypoints": [
     "static/css/main.ca46214d.css",
-    "static/js/main.a9716780.js"
+    "static/js/main.1677d200.js"
   ]
 }
